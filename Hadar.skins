@@ -1,0 +1,22 @@
+{
+  "Hadar": {
+    "Preferences": {
+      "color_scheme": "Packages/Hadar/Hadar.sublime-color-scheme",
+      "theme": "Hadar.sublime-theme",
+    }
+  },
+
+  "Hadar II": {
+    "Preferences": {
+      "color_scheme": "Packages/Hadar/Hadar II.sublime-color-scheme",
+      "theme": "Hadar II.sublime-theme",
+    }
+  },
+
+  "Hadar III": {
+    "Preferences": {
+      "color_scheme": "Packages/Hadar/Hadar III.sublime-color-scheme",
+      "theme": "Hadar III.sublime-theme",
+    }
+  }
+}
