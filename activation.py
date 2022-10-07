@@ -84,7 +84,7 @@ class HadarActivateCommand(sublime_plugin.WindowCommand):
     activate_ui_theme(ui_theme)
 
   def _quick_list_to_scheme(self, index):
-    return 'Packages/Hadar/%s.sublime-color-scheme' % THEMES[index]
+    return 'Packages/Hadar Theme/%s.sublime-color-scheme' % THEMES[index]
 
   def _quick_list_to_theme(self, index):
     return '%s.sublime-theme' % THEMES[index]

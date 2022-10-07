@@ -36,7 +36,7 @@
             "ui_separator"
         ],
         "layer0.tint": "#00000C",
-        "layer1.texture": "Hadar/assets/separator-right.png",
+        "layer1.texture": "Hadar Theme/assets/separator-right.png",
         "layer1.inner_margin": [
             0,
             1,
@@ -66,7 +66,7 @@
     },
     {
         "class": "tree_row",
-        "layer0.texture": "Hadar/assets/tree-highlight.png",
+        "layer0.texture": "Hadar Theme/assets/tree-highlight.png",
         "layer0.tint": "#e01e3755",
         "layer0.inner_margin": [
             8,
@@ -78,7 +78,7 @@
     },
     {
         "class": "tree_row",
-        "layer0.texture": "Hadar/assets/tree-highlight-separators.png",
+        "layer0.texture": "Hadar Theme/assets/tree-highlight-separators.png",
         "settings": [
             "ui_separator"
         ]
@@ -239,7 +239,7 @@
             6,
             8
         ],
-        "layer0.texture": "Hadar/assets/close.png",
+        "layer0.texture": "Hadar Theme/assets/close.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": [
             0,
@@ -264,7 +264,7 @@
         "attributes": [
             "dirty"
         ],
-        "layer0.texture": "Hadar/assets/dirty.png",
+        "layer0.texture": "Hadar Theme/assets/dirty.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1
     },
@@ -284,10 +284,10 @@
         ],
         "layer0.tint": "#00030F",
         "layer0.opacity": 0,
-        "layer1.texture": "Hadar/assets/folder.png",
+        "layer1.texture": "Hadar Theme/assets/folder.png",
         "layer1.tint": "#4d5566bf",
         "layer1.opacity": 1,
-        "layer2.texture": "Hadar/assets/folder-open.png",
+        "layer2.texture": "Hadar Theme/assets/folder-open.png",
         "layer2.tint": "#e01e37",
         "layer2.opacity": 0
     },
@@ -329,19 +329,19 @@
         ],
         "layer2.texture": {
             "keyframes": [
-                "Hadar/assets/folder-open-1.png",
-                "Hadar/assets/folder-open-1.png",
-                "Hadar/assets/folder-open-2.png",
-                "Hadar/assets/folder-open-3.png",
-                "Hadar/assets/folder-open-4.png",
-                "Hadar/assets/folder-open-5.png",
-                "Hadar/assets/folder-open-5.png",
-                "Hadar/assets/folder-open-5.png",
-                "Hadar/assets/folder-open-6.png",
-                "Hadar/assets/folder-open-6.png",
-                "Hadar/assets/folder-open-6.png",
-                "Hadar/assets/folder-open-6.png",
-                "Hadar/assets/folder-open.png"
+                "Hadar Theme/assets/folder-open-1.png",
+                "Hadar Theme/assets/folder-open-1.png",
+                "Hadar Theme/assets/folder-open-2.png",
+                "Hadar Theme/assets/folder-open-3.png",
+                "Hadar Theme/assets/folder-open-4.png",
+                "Hadar Theme/assets/folder-open-5.png",
+                "Hadar Theme/assets/folder-open-5.png",
+                "Hadar Theme/assets/folder-open-5.png",
+                "Hadar Theme/assets/folder-open-6.png",
+                "Hadar Theme/assets/folder-open-6.png",
+                "Hadar Theme/assets/folder-open-6.png",
+                "Hadar Theme/assets/folder-open-6.png",
+                "Hadar Theme/assets/folder-open.png"
             ],
             "loop": false,
             "frame_time": 0.02
@@ -365,18 +365,18 @@
         "class": "icon_folder_loading",
         "layer1.texture": {
             "keyframes": [
-                "Hadar/assets/spinner11.png",
-                "Hadar/assets/spinner10.png",
-                "Hadar/assets/spinner9.png",
-                "Hadar/assets/spinner8.png",
-                "Hadar/assets/spinner7.png",
-                "Hadar/assets/spinner6.png",
-                "Hadar/assets/spinner5.png",
-                "Hadar/assets/spinner4.png",
-                "Hadar/assets/spinner3.png",
-                "Hadar/assets/spinner2.png",
-                "Hadar/assets/spinner1.png",
-                "Hadar/assets/spinner.png"
+                "Hadar Theme/assets/spinner11.png",
+                "Hadar Theme/assets/spinner10.png",
+                "Hadar Theme/assets/spinner9.png",
+                "Hadar Theme/assets/spinner8.png",
+                "Hadar Theme/assets/spinner7.png",
+                "Hadar Theme/assets/spinner6.png",
+                "Hadar Theme/assets/spinner5.png",
+                "Hadar Theme/assets/spinner4.png",
+                "Hadar Theme/assets/spinner3.png",
+                "Hadar Theme/assets/spinner2.png",
+                "Hadar Theme/assets/spinner1.png",
+                "Hadar Theme/assets/spinner.png"
             ],
             "loop": true,
             "frame_time": 0.075
@@ -394,10 +394,10 @@
             9,
             9
         ],
-        "layer0.texture": "Hadar/assets/folder.png",
+        "layer0.texture": "Hadar Theme/assets/folder.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
-        "layer1.texture": "Hadar/assets/folder-symlink.png",
+        "layer1.texture": "Hadar Theme/assets/folder-symlink.png",
         "layer1.tint": "#a2aabc",
         "layer1.opacity": 0.3
     },
@@ -494,7 +494,7 @@
         ],
         "layer0.tint": "#00000C",
         "layer1.opacity": 1,
-        "layer1.texture": "Hadar/assets/separator-bottom.png",
+        "layer1.texture": "Hadar Theme/assets/separator-bottom.png",
         "layer1.tint": "#00010a",
         "layer1.inner_margin": [
             1,
@@ -513,7 +513,7 @@
             "!ui_native_titlebar"
         ],
         "layer2.opacity": 1,
-        "layer2.texture": "Hadar/assets/separator-top.png",
+        "layer2.texture": "Hadar Theme/assets/separator-top.png",
         "layer2.tint": "#00010a",
         "layer2.inner_margin": [
             1,
@@ -526,7 +526,7 @@
         "class": "tab_control",
         "layer0.tint": "#00030F",
         "layer0.opacity": 1,
-        "layer1.texture": "Hadar/assets/separator-top.png",
+        "layer1.texture": "Hadar Theme/assets/separator-top.png",
         "layer1.tint": "#00010a",
         "layer1.inner_margin": [
             0,
@@ -535,7 +535,7 @@
             0
         ],
         "layer1.opacity": 0,
-        "layer2.texture": "Hadar/assets/separator-right.png",
+        "layer2.texture": "Hadar Theme/assets/separator-right.png",
         "layer2.tint": "#00010a",
         "layer2.inner_margin": [
             0,
@@ -544,7 +544,7 @@
             0
         ],
         "layer2.opacity": 0,
-        "layer3.texture": "Hadar/assets/separator-bottom.png",
+        "layer3.texture": "Hadar Theme/assets/separator-bottom.png",
         "layer3.tint": "#00010a",
         "layer3.inner_margin": [
             0,
@@ -692,10 +692,10 @@
             0,
             0
         ],
-        "layer0.texture": "Hadar/assets/close.png",
+        "layer0.texture": "Hadar Theme/assets/close.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
-        "layer1.texture": "Hadar/assets/dirty.png",
+        "layer1.texture": "Hadar Theme/assets/dirty.png",
         "layer1.tint": "#a2aabc",
         "layer1.opacity": 0
     },
@@ -791,7 +791,7 @@
             12,
             15
         ],
-        "layer0.texture": "Hadar/assets/arrow-left.png",
+        "layer0.texture": "Hadar Theme/assets/arrow-left.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1
     },
@@ -808,7 +808,7 @@
             12,
             15
         ],
-        "layer0.texture": "Hadar/assets/arrow-right.png",
+        "layer0.texture": "Hadar Theme/assets/arrow-right.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1
     },
@@ -824,7 +824,7 @@
         "settings": [
             "ui_separator"
         ],
-        "layer2.texture": "Hadar/assets/separator-right.png",
+        "layer2.texture": "Hadar Theme/assets/separator-right.png",
         "layer2.tint": "#00010a",
         "layer2.opacity": 1,
         "layer2.inner_margin": [
@@ -840,7 +840,7 @@
             12,
             12
         ],
-        "layer0.texture": "Hadar/assets/overflow-menu.png",
+        "layer0.texture": "Hadar Theme/assets/overflow-menu.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "layer0.inner_margin": [
@@ -857,7 +857,7 @@
     },
     {
         "class": "overlay_control",
-        "layer0.texture": "Hadar/assets/overlay-shadow.png",
+        "layer0.texture": "Hadar Theme/assets/overlay-shadow.png",
         "layer0.inner_margin": [
             15,
             35,
@@ -866,7 +866,7 @@
         ],
         "layer0.opacity": 0.6,
         "layer0.tint": "#00010a",
-        "layer1.texture": "Hadar/assets/overlay-border.png",
+        "layer1.texture": "Hadar Theme/assets/overlay-border.png",
         "layer1.inner_margin": [
             15,
             35,
@@ -875,7 +875,7 @@
         ],
         "layer1.opacity": 1,
         "layer1.tint": "#000000",
-        "layer2.texture": "Hadar/assets/overlay-bg.png",
+        "layer2.texture": "Hadar Theme/assets/overlay-bg.png",
         "layer2.inner_margin": [
             15,
             35,
@@ -1030,7 +1030,7 @@
     },
     {
         "class": "fold_button_control",
-        "layer0.texture": "Hadar/assets/unfold.png",
+        "layer0.texture": "Hadar Theme/assets/unfold.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": 0,
         "layer0.tint": "#a2aabc",
@@ -1053,7 +1053,7 @@
         "attributes": [
             "expanded"
         ],
-        "layer0.texture": "Hadar/assets/fold.png"
+        "layer0.texture": "Hadar Theme/assets/fold.png"
     },
     {
         "class": "popup_control",
@@ -1108,7 +1108,7 @@
             "ui_separator"
         ],
         "layer0.tint": "#00000C",
-        "layer1.texture": "Hadar/assets/separator-top.png",
+        "layer1.texture": "Hadar Theme/assets/separator-top.png",
         "layer1.tint": "#00010a",
         "layer1.inner_margin": [
             1,
@@ -1123,7 +1123,7 @@
     },
     {
         "class": "panel_close_button",
-        "layer0.texture": "Hadar/assets/close.png",
+        "layer0.texture": "Hadar Theme/assets/close.png",
         "layer0.opacity": 1,
         "layer0.tint": "#a2aabc",
         "content_margin": [
@@ -1143,7 +1143,7 @@
         "layer0.texture": "",
         "layer0.tint": "#00030F",
         "layer0.opacity": 1,
-        "layer1.texture": "Hadar/assets/separator-top.png",
+        "layer1.texture": "Hadar Theme/assets/separator-top.png",
         "layer1.tint": "#00010a",
         "layer1.inner_margin": [
             1,
@@ -1166,7 +1166,7 @@
     },
     {
         "class": "sidebar_button_control",
-        "layer0.texture": "Hadar/assets/switch-panel.png",
+        "layer0.texture": "Hadar Theme/assets/switch-panel.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "min_size": [
@@ -1240,7 +1240,7 @@
         "class": "scroll_bar_control",
         "layer0.tint": "#00030F",
         "layer0.opacity": 1,
-        "layer1.texture": "Hadar/assets/scrollbar-vertical-wide.png",
+        "layer1.texture": "Hadar Theme/assets/scrollbar-vertical-wide.png",
         "layer1.tint": "#e01e37",
         "layer1.opacity": 1,
         "layer1.inner_margin": [
@@ -1262,7 +1262,7 @@
         "attributes": [
             "horizontal"
         ],
-        "layer1.texture": "Hadar/assets/scrollbar-horizontal-wide.png",
+        "layer1.texture": "Hadar Theme/assets/scrollbar-horizontal-wide.png",
         "layer1.inner_margin": [
             10,
             0
@@ -1274,7 +1274,7 @@
             "overlay_scroll_bars"
         ],
         "layer0.opacity": 0,
-        "layer1.texture": "Hadar/assets/scrollbar-vertical.png",
+        "layer1.texture": "Hadar Theme/assets/scrollbar-vertical.png",
         "layer1.inner_margin": [
             4,
             6,
@@ -1288,7 +1288,7 @@
             "overlay_scroll_bars",
             "ui_wide_scrollbars"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-vertical-wide.png"
+        "layer0.texture": "Hadar Theme/assets/scrollbar-vertical-wide.png"
     },
     {
         "class": "scroll_bar_control",
@@ -1299,7 +1299,7 @@
             "horizontal"
         ],
         "layer0.opacity": 0,
-        "layer1.texture": "Hadar/assets/scrollbar-horizontal.png",
+        "layer1.texture": "Hadar Theme/assets/scrollbar-horizontal.png",
         "layer1.inner_margin": [
             6,
             4,
@@ -1316,7 +1316,7 @@
             "overlay_scroll_bars",
             "ui_wide_scrollbars"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-horizontal-wide.png"
+        "layer0.texture": "Hadar Theme/assets/scrollbar-horizontal-wide.png"
     },
     {
         "class": "scroll_track_control",
@@ -1330,7 +1330,7 @@
     },
     {
         "class": "puck_control",
-        "layer0.texture": "Hadar/assets/scrollbar-vertical-wide.png",
+        "layer0.texture": "Hadar Theme/assets/scrollbar-vertical-wide.png",
         "layer0.tint": "#e01e37",
         "layer0.opacity": 0.5,
         "layer0.inner_margin": [
@@ -1344,7 +1344,7 @@
     },
     {
         "class": "puck_control",
-        "layer0.texture": "Hadar/assets/scrollbar-vertical-wide.png",
+        "layer0.texture": "Hadar Theme/assets/scrollbar-vertical-wide.png",
         "attributes": [
             "hover"
         ],
@@ -1356,7 +1356,7 @@
         "attributes": [
             "horizontal"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-horizontal-wide.png",
+        "layer0.texture": "Hadar Theme/assets/scrollbar-horizontal-wide.png",
         "layer0.inner_margin": [
             10,
             0
@@ -1371,7 +1371,7 @@
         "settings": [
             "overlay_scroll_bars"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-vertical.png",
+        "layer0.texture": "Hadar Theme/assets/scrollbar-vertical.png",
         "layer0.inner_margin": [
             4,
             6,
@@ -1389,7 +1389,7 @@
             "overlay_scroll_bars",
             "ui_wide_scrollbars"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-vertical-wide.png"
+        "layer0.texture": "Hadar Theme/assets/scrollbar-vertical-wide.png"
     },
     {
         "class": "puck_control",
@@ -1399,7 +1399,7 @@
         "attributes": [
             "horizontal"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-horizontal.png",
+        "layer0.texture": "Hadar Theme/assets/scrollbar-horizontal.png",
         "layer0.inner_margin": [
             6,
             4,
@@ -1420,18 +1420,18 @@
             "overlay_scroll_bars",
             "ui_wide_scrollbars"
         ],
-        "layer0.texture": "Hadar/assets/scrollbar-horizontal-wide.png"
+        "layer0.texture": "Hadar Theme/assets/scrollbar-horizontal-wide.png"
     },
     {
         "class": "text_line_control",
-        "layer0.texture": "Hadar/assets/input-bg.png",
+        "layer0.texture": "Hadar Theme/assets/input-bg.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": [
             10,
             8
         ],
         "layer0.tint": "#00000C",
-        "layer1.texture": "Hadar/assets/input-border.png",
+        "layer1.texture": "Hadar Theme/assets/input-border.png",
         "layer1.opacity": 1,
         "layer1.inner_margin": [
             10,
@@ -1454,7 +1454,7 @@
         ],
         "layer0.texture": "",
         "layer0.opacity": 0,
-        "layer1.texture": "Hadar/assets/input-search.png",
+        "layer1.texture": "Hadar Theme/assets/input-search.png",
         "layer1.opacity": 1,
         "layer1.tint": "#a2aabc",
         "layer1.inner_margin": [
@@ -1476,7 +1476,7 @@
             12,
             12
         ],
-        "layer0.texture": "Hadar/assets/overflow-menu.png",
+        "layer0.texture": "Hadar Theme/assets/overflow-menu.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1
     },
@@ -1500,7 +1500,7 @@
             0
         ],
         "layer0.tint": "#8695b755",
-        "layer0.texture": "Hadar/assets/input-bg.png",
+        "layer0.texture": "Hadar Theme/assets/input-bg.png",
         "layer0.inner_margin": [
             10,
             8
@@ -1535,7 +1535,7 @@
     },
     {
         "class": "icon_regex",
-        "layer0.texture": "Hadar/assets/regex.png",
+        "layer0.texture": "Hadar Theme/assets/regex.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1557,7 +1557,7 @@
     },
     {
         "class": "icon_case",
-        "layer0.texture": "Hadar/assets/matchcase.png",
+        "layer0.texture": "Hadar Theme/assets/matchcase.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1579,7 +1579,7 @@
     },
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Hadar/assets/word.png",
+        "layer0.texture": "Hadar Theme/assets/word.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1601,7 +1601,7 @@
     },
     {
         "class": "icon_wrap",
-        "layer0.texture": "Hadar/assets/wrap.png",
+        "layer0.texture": "Hadar Theme/assets/wrap.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1623,7 +1623,7 @@
     },
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Hadar/assets/inselection.png",
+        "layer0.texture": "Hadar Theme/assets/inselection.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1645,7 +1645,7 @@
     },
     {
         "class": "icon_highlight",
-        "layer0.texture": "Hadar/assets/highlight.png",
+        "layer0.texture": "Hadar Theme/assets/highlight.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1667,7 +1667,7 @@
     },
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Hadar/assets/replace-preserve-case.png",
+        "layer0.texture": "Hadar Theme/assets/replace-preserve-case.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1689,7 +1689,7 @@
     },
     {
         "class": "icon_context",
-        "layer0.texture": "Hadar/assets/context.png",
+        "layer0.texture": "Hadar Theme/assets/context.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [
@@ -1711,7 +1711,7 @@
     },
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Hadar/assets/buffer.png",
+        "layer0.texture": "Hadar Theme/assets/buffer.png",
         "layer0.tint": "#a2aabc",
         "layer0.opacity": 1,
         "content_margin": [

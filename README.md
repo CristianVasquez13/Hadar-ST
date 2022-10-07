@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Hadar Logo" src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/logo.png" width="200"/>
+    <img alt="Hadar Logo" src="https://raw.github.com/CristianVasquez13/Hadar-ST/master/images/logo.png" width="200"/>
 </p>
 <h1 align="center">Hadar Theme for Sublime Text</h1>
 
@@ -44,20 +44,20 @@ For Hadar:
 
 ```js
 "theme": "Hadar.sublime-theme",
-"color_scheme": "Packages/Hadar/Hadar.sublime-color-scheme",
+"color_scheme": "Packages/Hadar Theme/Hadar.sublime-color-scheme",
 ```
 
 For Hadar II:
 
 ```js
 "theme": "Hadar II.sublime-theme",
-"color_scheme": "Packages/Hadar/Hadar II.sublime-color-scheme",
+"color_scheme": "Packages/Hadar Theme/Hadar II.sublime-color-scheme",
 ```
 
 For Hadar III:
 
 ```js
 "theme": "Hadar III.sublime-theme",
-"color_scheme": "Packages/Hadar/Hadar III.sublime-color-scheme",
+"color_scheme": "Packages/Hadar Theme/Hadar III.sublime-color-scheme",
 ```
 <p align="center">Elaborado por: <a href="https://mislinks.netlify.app/">Cristian Vásquez</a></p>
